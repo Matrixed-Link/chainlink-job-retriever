@@ -1,3 +1,5 @@
 node_modules/
 contracts/*
+!contracts/.gitkeep
 nodes.json
+chainlink-job-retriever.log
