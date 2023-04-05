@@ -1,0 +1,30 @@
+2023-04-05T14:05:43.642Z info: Retrieving jobs for Arbitrum-OCR.
+2023-04-05T14:05:49.408Z info: Retrieving jobs for Polygon-OCR.
+2023-04-05T14:05:51.679Z info: Retrieving jobs for Ethereum-OCR.
+2023-04-05T14:05:54.388Z info: Retrieved jobs for Arbitrum-OCR: 24
+2023-04-05T14:05:54.389Z info: Writing retrieved jobs to file.
+2023-04-05T14:05:54.389Z info: Retrieved jobs for Polygon-OCR: 60
+2023-04-05T14:05:54.390Z info: Writing retrieved jobs to file.
+2023-04-05T14:05:54.390Z info: Retrieved jobs for Ethereum-OCR: 48
+2023-04-05T14:05:54.390Z info: Writing retrieved jobs to file.
+2023-04-05T14:05:54.391Z info: Successfully wrote jobs to /contracts/Arbitrum-OCR.json
+2023-04-05T14:05:54.392Z info: Successfully wrote jobs to /contracts/Ethereum-OCR.json
+2023-04-05T14:05:54.392Z info: Successfully wrote jobs to /contracts/Polygon-OCR.json
+2023-04-05T14:09:41.241Z info: Retrieving jobs for Arbitrum-OCR.
+2023-04-05T14:09:42.830Z info: Retrieving jobs for Polygon-OCR.
+2023-04-05T14:09:45.839Z info: Retrieving jobs for Ethereum-OCR.
+2023-04-05T14:09:48.500Z info: Retrieved jobs for Arbitrum-OCR: 24
+2023-04-05T14:09:48.501Z info: Writing retrieved job data to file.
+2023-04-05T14:09:48.501Z info: Writing retrieved job addresses to file.
+2023-04-05T14:09:48.501Z info: Retrieved jobs for Polygon-OCR: 60
+2023-04-05T14:09:48.502Z info: Writing retrieved job data to file.
+2023-04-05T14:09:48.502Z info: Writing retrieved job addresses to file.
+2023-04-05T14:09:48.502Z info: Retrieved jobs for Ethereum-OCR: 48
+2023-04-05T14:09:48.503Z info: Writing retrieved job data to file.
+2023-04-05T14:09:48.503Z info: Writing retrieved job addresses to file.
+2023-04-05T14:09:48.505Z info: Successfully wrote job addresses to /contracts/Arbitrum-OCR.json
+2023-04-05T14:09:48.505Z info: Successfully wrote job addresses to /contracts/Arbitrum-OCR_addresses.json
+2023-04-05T14:09:48.506Z info: Successfully wrote job addresses to /contracts/Polygon-OCR.json
+2023-04-05T14:09:48.506Z info: Successfully wrote job addresses to /contracts/Ethereum-OCR.json
+2023-04-05T14:09:48.506Z info: Successfully wrote job addresses to /contracts/Polygon-OCR_addresses.json
+2023-04-05T14:09:48.506Z info: Successfully wrote job addresses to /contracts/Ethereum-OCR_addresses.json

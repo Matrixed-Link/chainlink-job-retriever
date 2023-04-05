@@ -1,0 +1,14 @@
+[
+   {
+      "name":"Chainlink Node 1",
+      "url":"https://chainlink-node:port",
+      "username":"info@domain.tld",
+      "password":"StrongPassword"
+   },
+   {
+      "name":"Chainlink Node 2",
+      "url":"https://chainlink-node:port",
+      "username":"info@domain.tld",
+      "password":"StrongPassword"
+   }
+]
