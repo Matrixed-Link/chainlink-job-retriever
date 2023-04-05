@@ -1,21 +1,3 @@
-const chainlinkNodes = [{
-    name: "Arbitrum-OCR",
-    url: "https://51.75.82.41:6689",
-    username: "info@matrixed.link",
-    password: "VwPolo2001Node"
-}, {
-    name: "Polygon-OCR",
-    url: "https://51.195.85.16:6689",
-    username: "info@matrixed.link",
-    password: "VwPolo2001Node"
-},
-{
-    name: "Ethereum-OCR",
-    url: "https://51.75.87.39:6689",
-    username: "info@matrixed.link",
-    password: "VwPolo2001Node"
-}]
-
 const fs = require('fs');
 const axios = require('axios');
 const https = require('https');
